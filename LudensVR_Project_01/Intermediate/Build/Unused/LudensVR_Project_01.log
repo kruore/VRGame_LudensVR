@@ -1,0 +1,37 @@
+﻿  Creating makefile for LudensVR_Project_01Editor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for LudensVR_Project_01Editor
+    Running UnrealHeaderTool "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\LudensVR_Project_01.uproject" "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\LudensVR_Project_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for LudensVR_Project_01Editor in 14.2632249 seconds
+  Deleting old hot reload file: "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Binaries\Win64\UE4Editor-LudensVR_Project_01-3061.dll".
+  Deleting old hot reload file: "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Binaries\Win64\UE4Editor-LudensVR_Project_01-3061.pdb".
+  Deleting old hot reload file: "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Binaries\Win64\UE4Editor-LudensVR_Project_01-612.dll".
+  Deleting old hot reload file: "C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Binaries\Win64\UE4Editor-LudensVR_Project_01-612.pdb".
+  Building 6 actions with 20 processes...
+    [1/6] PCLaunch.rc
+    [2/6] SharedPCH.Engine.cpp
+    [3/6] Module.LudensVR_Project_01.gen.cpp
+c:\users\3dcl_beta\desktop\ludensvr_project_01\source\ludensvr_project_01\public\lv_weapon\LV_WP_PistolClass.h(41): warning C4265: 'LV_WP_PistolClass': ??????? ???? ????? ?????? ?????? ?????? ?????
+             ?? ??????? ?ν?????? ?????? ?????? ???? ?? ??????.
+    [4/6] Module.LudensVR_Project_01.cpp
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Game3DMenu_QuitGame.cpp(40): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Game3DMenu_StartGame.cpp(42): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Game3DMenu_StartTutorial.cpp(45): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Lobby_Mission01.cpp(52): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Tutorial_Mission01.cpp(53): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Source\LudensVR_Project_01\Private\Dummy\Tutorial_Mission05.cpp(52): warning C4996: 'UTextRenderComponent::SetText': Passing text as FString is deprecated, please use FText instead (likely via a LOCTEXT). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    C:\Program Files\Epic Games\UE_4.20\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h(108): note: 'UTextRenderComponent::SetText' ?????? ???????y?.
+c:\users\3dcl_beta\desktop\ludensvr_project_01\source\ludensvr_project_01\public\lv_weapon\LV_WP_PistolClass.h(41): warning C4265: 'LV_WP_PistolClass': ??????? ???? ????? ?????? ?????? ?????? ?????
+             ?? ??????? ?ν?????? ?????? ?????? ???? ?? ??????.
+    [5/6] UE4Editor-LudensVR_Project_01.lib
+       C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01.lib ????귯?? ?? C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01.exp ??u?? ??????? ??????.
+    [6/6] UE4Editor-LudensVR_Project_01.dll
+       C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01.suppressed.lib ????귯?? ?? C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01.suppressed.exp ??u?? ??????? ??????.
+  Deploying LudensVR_Project_01Editor Win64 Development...
+  Total build time: 69.25 seconds (Parallel executor: 39.36 seconds)

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LudensVR_Project_01.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\LudensVR_Project_01Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\Module.LudensVR_Project_01.cpp.obj"
+"C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\Module.LudensVR_Project_01.gen.cpp.obj"
+"C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\PCLaunch.rc.res"
+/OUT:"C:\Users\3DCL_Beta\Desktop\LudensVR_Project_01\Intermediate\Build\Win64\UE4Editor\Development\LudensVR_Project_01\UE4Editor-LudensVR_Project_01.lib"
